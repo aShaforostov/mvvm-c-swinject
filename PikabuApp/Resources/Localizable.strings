@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  PikabuApp
+
+  Created by Alexey Shaforostov on 20.02.2020.
+  Copyright © 2020 Alex Hafros. All rights reserved.
+*/
+
+
+"choose_sort" = "Выберите сортировку";
+"expand" = "Раскрыть";
+
+// SORT
+"sort_none" = "Без сортировки";
+"sort_date_new" = "Сначала новые";
+"sort_date_old" = "Сначала старые";
+"sort_rating_big" = "Сначала популярные";
+"sort_rating_lowest" = "Сначала непопулярные";

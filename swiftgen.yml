@@ -1,0 +1,13 @@
+input_dir: PikabuApp/Resources
+output_dir: PikabuApp/Generated/
+xcassets:
+  inputs:
+    - Assets.xcassets
+  outputs:
+    templateName: swift4
+    output: Assets.swift
+strings:
+  inputs: Localizable.strings
+  outputs:
+    templateName: structured-swift4
+    output: Strings.swift
